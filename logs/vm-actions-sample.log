@@ -1,0 +1,4 @@
+2025-06-26 21:15:12 - start on VM start-stop-vm in RG project1 (Previous Status: PowerState/running)
+2025-06-26 21:21:32 - stop on VM start-stop-vm in RG project1 (Previous Status: PowerState/running)
+2025-06-28 00:02:29 - start on VM start-stop-vm in RG project1 (Previous Status: PowerState/deallocated)
+2025-06-28 00:04:15 - stop on VM start-stop-vm in RG project1 (Previous Status: PowerState/running)
